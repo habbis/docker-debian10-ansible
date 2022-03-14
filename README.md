@@ -9,7 +9,7 @@ Thanks to him for his open source work and here is his [site](https://www.jeffge
 
 [![CI](https://github.com/habbis/docker-debian10-ansible/workflows/Build/badge.svg?branch=main&event=push)](https://github.com/habbis0/docker-debian10-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/habbis0/docker-debian10-ansible)](https://hub.docker.com/r/habbis0/docker-debian10-ansible/)
 
-Debian 11 (Bullseye) Docker container for Ansible playbook and role testing.
+Debian  10 (Buster) Docker container for Ansible playbook and role testing.
 
 ## Tags
 
