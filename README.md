@@ -1,4 +1,4 @@
-# Debian 11 (Bullseye) Ansible Test Image
+# Debian 10 (Buster) Ansible Test Image
 
 This is based on [Jeff Geerling](https://ansible.jeffgeerling.com/) docker config.
 
